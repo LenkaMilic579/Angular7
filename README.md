@@ -28,4 +28,4 @@ git add .
 git commit -m "Poruka za commit"
 git push origin master
 
-npm install
+npm install komanda unutar frontend foldera
